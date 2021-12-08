@@ -1,0 +1,66 @@
+DAY 1
+Tier architecture basics and middleware
+Introduction of Mule Soft ESB
+What is ESB?
+What is Mule Soft 
+Why Mule Soft 
+Mule Soft Futures 
+Current Market Trends 
+History of Mule ESB 
+What is Postman 
+Mule Architecture 
+Mule Message Diagrams 
+
+Basics of Mule ESB
+ Introduction of XML
+ Introduction JSON 
+Overview of SOAP 
+Overview of Rest 
+Understanding WSDL 
+Overview of Web-Services 
+Importance of XSD 
+Publishing an API to Exchange. 
+
+Environment setup:
+Application required for Mule soft development and Installation 
+Local Environment setup. 
+Cloud Environment setup. 
+Mule Basics
+
+DAY 2
+Introducing Application Networks and API-Led Connectivity
+	Explain what an application network is and its benefits
+	Describe how to build an application network using API-led connectivity
+	Explain what web services and APIs are
+	Explore API directories and portals
+	Make calls to secure and unsecured APIs
+
+ Introducing Anypoint Platform
+	Identify all the components of Anypoint Platform
+	Describe the role of each component in building application networks
+	Navigate Anypoint Platform
+	Locate APIs and other assets needed to build integrations and APIs in Anypoint Exchange
+	Build basic integrations to connect systems using Flow Designer
+
+ Designing APIs
+	Define APIs with RAML, the Restful API Modeling Language
+	Mock APIs to test their design before they are built
+	Make APIs discoverable by adding them to Anypoint Exchange
+	Create API portals for developers to learn how to use APIs
+	
+DAY 3
+	
+Building APIs
+	Use Anypoint Studio to create flows graphically
+	Build, run, and test Mule applications
+	Use a connector to connect to databases
+	Use the graphical DataWeave editor to transform data
+	Create RESTful interfaces for applications from a RAML file
+	Connect API interfaces to API implementations
+	Synchronize changes to API specifications between Anypoint Studio and Anypoint Platform
+	
+Deploying and Managing APIs
+	Describe the options for deploying Mule applications
+	Deploy Mule applications to CloudHub
+	Use API Manager to create and deploy API proxies to CloudHub
+	Restrict access to API proxies
